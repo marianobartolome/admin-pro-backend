@@ -11,6 +11,7 @@ const getHospitales = async(req,res=response)=>{
         hospitales
      
     })
+    
 }
 const crearHospital = async(req,res=response)=>{
     
